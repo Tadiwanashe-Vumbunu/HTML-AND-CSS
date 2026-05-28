@@ -21,7 +21,7 @@ Through this course, I have developed:
 - Improved attention to detail in UI implementation  
 
 ## Progress  
-I am still actively progressing through the course, and more projects will be added as I continue to expand my skills.
+Course is completed. However, I do not cease to purpue my goals. 
 
 ## Course Link  
 [HTML & CSS Course on Udemy](https://www.udemy.com/share/101Wtc3@ftcO8OxOTOEYSHpwF7N6efmWLXUV0tZfNt_fYG3rAuXejGYXictrLHQJnXAaeUgIMg==/)
