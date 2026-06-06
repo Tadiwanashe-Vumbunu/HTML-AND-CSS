@@ -7,7 +7,8 @@ This repository contains all the projects I have completed throughout my HTML an
 
 ## Technologies Used  
 - HTML (structure and semantics)  
-- CSS (styling, layout, and responsiveness)  
+- CSS (styling, layout, and responsiveness)
+- JavaScript (final project: to implement smooth scrolling on outdated Apple Softwares)
 
 ## Purpose  
 This repository serves as a portfolio to showcase my ability to build responsive, visually appealing, and well-structured web pages. Each project is organized in its own folder and includes a README file with a brief description.
