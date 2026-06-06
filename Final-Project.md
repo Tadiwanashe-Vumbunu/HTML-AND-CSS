@@ -20,14 +20,6 @@ The website presents a fictional AI-powered food delivery company that creates p
 * CSS3
 * JavaScript
 
-## Live Demo
-
-Visit the live website here:
-
-```bash
-https://omnifood-tadiwa-vumbunu.netlify.app/
-```
-
 ## What I Learned
 
 This project helped me understand that learning does not end in the classroom. Building real projects requires continuous self-learning, practice, and problem-solving beyond school content.
@@ -39,3 +31,11 @@ It also strengthened my understanding of:
 * Layout structuring
 * Web design patterns
 * Clean UI implementation
+
+## Live Demo
+
+Visit the live website here:
+
+```bash
+https://omnifood-tadiwa-vumbunu.netlify.app/
+```
